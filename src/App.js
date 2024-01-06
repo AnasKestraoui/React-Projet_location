@@ -1,5 +1,5 @@
 import React,{useState} from "react"
-import {hashRouter as Router,Routes,Route} from "react-router-dom"
+import {HashRouter as Router,Routes,Route} from "react-router-dom"
 import Authentification from "./Projet_location/Authentification/Authentification"
 import Home from "./Projet_location/Home/Home"
 import 'bootstrap/dist/css/bootstrap.min.css'
